@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harishcloud
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack web development
+- 🌱 I’m currently learning BigData
 - 💞️ I’m looking to collaborate on projects in cloud computing.
 - 📫 How to reach me harishsujju99@gamil.com
 
